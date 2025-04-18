@@ -62,7 +62,7 @@ Although not fully implemented in Phase 2, placeholder functions have been set u
 
 ## Screenshots
 
-- **Home Page**: ![Home Page Screenshot](https://i.imgur.com/a/zD75Ln6)
+- **Home Page**:(https://i.imgur.com/a/zD75Ln6)
 - **Coin Detail Page**: ![Coin Detail Page Screenshot](https://imgur.com/a/Q1wgZd7)
 - **Favorites Page**: ![Favorites Page Screenshot](https://imgur.com/a/V5iHmFl)
 
